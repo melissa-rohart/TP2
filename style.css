@@ -1,13 +1,14 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background-image:url(doge2.jpg);
 }
 
 #header
 {
-	background: #ccc;
+	background:  #D0B488;
 	padding: 20px;
+	text-align: center;
 }
 
 #header h1 { margin: 0; }
@@ -45,6 +46,7 @@
 
 #edito
 {
+	background-color:#FFECD0;
 	clear: left;
 	padding: 20px;
 	margin: 20px;
@@ -57,7 +59,6 @@
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
 }
 
 #edito h2
@@ -69,6 +70,7 @@
 
 #news
 {	
+	background-color:#FFECD0;
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -82,13 +84,12 @@
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background:  #D0B488;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
